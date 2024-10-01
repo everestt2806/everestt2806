@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Son Nguyen👋
 
 ## About Me
 I'm a passionate software developer with a focus on multiple platform development. I love tackling complex problems and building innovative solutions that make a difference.
