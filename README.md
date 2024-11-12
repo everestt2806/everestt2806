@@ -28,7 +28,9 @@ I'm a passionate software developer with a focus on multiple platform developmen
   
 
 ## 📊 GitHub Stats
-![Son Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=everestt2806&show_icons=true&theme=radical)
+(https://github-readme-streak-stats.herokuapp.com/?user=everestt2806&theme=dark&hide_border=false)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=everestt2806&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 
 ## 🎯 Goals for [Current Year]
 - CCNA
